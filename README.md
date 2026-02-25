@@ -92,32 +92,9 @@ const ziad = {
 
 ---
 
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/ziad-zizo77/project1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ziad-zizo77&repo=project1&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/ziad-zizo77/project2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ziad-zizo77&repo=project2&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/ziad-zizo77/project3">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ziad-zizo77&repo=project3&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/ziad-zizo77/project4">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ziad-zizo77&repo=project4&theme=tokyonight&hide_border=true"/>
-</a>
-
-</div>
+## 🏆 GitHub Trophies
 
 ---
-
 ## 📈 Contribution Graph
 
 <div align="center">
