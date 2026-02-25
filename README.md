@@ -78,22 +78,23 @@ const ziad = {
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Latest Repositories
 
 <div align="center">
 
-<img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=ziad-zizo77&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ziad-zizo77&theme=tokyonight"/>
 
-<img src="https://streak-stats.demolab.com?user=ziad-zizo77&theme=tokyonight&hide_border=true" height="170"/>
-
-<img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=ziad-zizo77&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ziad-zizo77&theme=tokyonight"/>
 
 </div>
 
----
+<br/>
 
-## 🏆 GitHub Trophies
+<div align="center">
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ziad-zizo77&theme=tokyonight"/>
+
+</div>
 ---
 ## 📈 Contribution Graph
 
