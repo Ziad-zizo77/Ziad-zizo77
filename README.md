@@ -25,13 +25,13 @@
 
 ```javascript
 const ziad = {
-  name:        "Ziad Mohamed",
-  role:        "MERN Stack Developer",
-  location:    "Egypt 🇪🇬",
-  stack:       ["MongoDB", "Express.js", "React", "Node.js"],
+  name: "Ziad Mohamed",
+  role: "MERN Stack Developer",
+  location: "Egypt 🇪🇬",
+  stack: ["MongoDB", "Express.js", "React", "Node.js"],
   currentlyLearning: ["TypeScript", "Next.js", "Docker"],
-  funFact:     "I debug with console.log and I'm not ashamed 😄",
-  openToWork:  true
+  funFact: "I debug with console.log and I'm not ashamed 😄",
+  openToWork: true,
 };
 ```
 
@@ -40,6 +40,7 @@ const ziad = {
 ## 🚀 Tech Stack
 
 ### 🎨 Frontend
+
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
@@ -51,6 +52,7 @@ const ziad = {
 </p>
 
 ### ⚙️ Backend
+
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
@@ -58,12 +60,14 @@ const ziad = {
 </p>
 
 ### 🗄️ Database
+
 <p>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 ### 🛠️ Tools & DevOps
+
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
@@ -78,19 +82,42 @@ const ziad = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ziad-zizo77&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
+<img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=ziad-zizo77&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
 
 <img src="https://streak-stats.demolab.com?user=ziad-zizo77&theme=tokyonight&hide_border=true" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziad-zizo77&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=ziad-zizo77&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/ziad-zizo77/project1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ziad-zizo77&repo=project1&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/ziad-zizo77/project2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ziad-zizo77&repo=project2&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/ziad-zizo77/project3">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ziad-zizo77&repo=project3&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/ziad-zizo77/project4">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ziad-zizo77&repo=project4&theme=tokyonight&hide_border=true"/>
+</a>
+
+</div>
 
 ---
+
 ## 📈 Contribution Graph
 
 <div align="center">
