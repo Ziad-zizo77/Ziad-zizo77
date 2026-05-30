@@ -10,7 +10,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Ziad+Mohamed+%F0%9F%91%8B;MERN+Stack+Developer+%F0%9F%9A%80;Building+awesome+web+experiences+%F0%9F%8C%90;Always+learning%2C+always+growing+%F0%9F%93%88)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Ziad+Mohamed+%F0%9F%91%8B;Front-End+Developer+%F0%9F%8E%A8;Building+modern+web+interfaces+%F0%9F%8C%90;Learning+React.js+%E2%9A%9B%EF%B8%8F;Always+learning%2C+always+growing+%F0%9F%93%88)](https://git.io/typing-svg)
 
 <br/>
 
@@ -26,44 +26,38 @@
 ```javascript
 const ziad = {
   name: "Ziad Mohamed",
-  role: "MERN Stack Developer",
+  role: "Front-End Developer",
   location: "Egypt 🇪🇬",
-  stack: ["MongoDB", "Express.js", "React", "Node.js"],
-  currentlyLearning: ["TypeScript", "Next.js", "Docker"],
-  funFact: "I debug with console.log and I'm not ashamed 😄",
+  skills: [
+    "HTML5",
+    "CSS3",
+    "JavaScript",
+    "TypeScript",
+    "Sass",
+    "SVG",
+    "Canvas"
+  ],
+  tools: ["Git", "GitHub", "Node.js"],
+  currentlyLearning: ["React.js"],
+  funFact: "I enjoy turning ideas into interactive web experiences 🚀",
   openToWork: true,
 };
 ```
 
 ---
 
-## 🚀 Tech Stack
 
 ### 🎨 Frontend
 
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-</p>
-
-### ⚙️ Backend
-
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-</p>
-
-### 🗄️ Database
-
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SVG-FFB13B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Canvas_API-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/React-Learning-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
 </p>
 
 ### 🛠️ Tools & DevOps
@@ -72,13 +66,11 @@ const ziad = {
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 </p>
-
 ---
 
-## 🚀 Latest Repositories
+## 🎨 Featured Front-End Projects
 
 <div align="center">
 
